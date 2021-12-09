@@ -1,2 +1,3 @@
 i am try push dir in github
 i am change some text in aba branch
+i am learing git pull
